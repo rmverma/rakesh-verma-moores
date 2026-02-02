@@ -1,5 +1,6 @@
 title: "Rakesh M. Verma — Scholarly Impact Overview"
 description: "Research, teaching, and service impact summary supporting Moores Professorship materials."
+baseurl: "/rakesh-verma-moores"
 theme: minima
 markdown: kramdown
 plugins: []
