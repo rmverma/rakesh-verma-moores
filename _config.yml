@@ -1,0 +1,10 @@
+title: "Rakesh M. Verma — Scholarly Impact Overview"
+description: "Research, teaching, and service impact summary supporting Moores Professorship materials."
+theme: minima
+markdown: kramdown
+plugins: []
+header_pages:
+  - research.md
+  - teaching.md
+  - service.md
+  - publications.md
