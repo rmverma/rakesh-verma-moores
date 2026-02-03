@@ -16,6 +16,7 @@ My research emphasizes **durable, methodologically rigorous contributions** span
 ## Selected contributions (high level)
 > **Selected Contributions at a Glance**
 > - Resolution of a recognized open problem in term rewriting systems (GTV04; RTA Loop #63)
+> - “Problems listed in the RTA Loop archive are curated by the community precisely because they resist resolution using existing techniques.”
 > - Early natural-language–based phishing detection (ESORICS 2012)
 > - Benchmarking framework for phishing detection research (IEEE Access 2020)
 > - Data-quality–driven security analytics (ACM CCS 2019; IDA 2024–2025)
@@ -69,10 +70,11 @@ In parallel, student researchers trained through these projects have transitione
 - **IEEE Access 2020** — “An In-Depth Benchmarking and Evaluation of Phishing Detection Research for Security Needs” (El Aassal, Baki, Das, Verma)
 - **AAAI 2026** — adversarial text detection (accepted)
 - **Book** — *Cybersecurity Analytics* (CRC Press, 2019)
+- “Additional publications related to these themes are listed on the Publications page.”
 
 ## Research support and recognition
 - Competitive external funding exceeding **$19M** total (with > **$12M** attributed to UH).
-- **Fulbright Distinguished** appointment.
+- **NSF-Fulbright Distinguished Cybersecurity Professor** appointment.
 - **ACM Distinguished Speaker**.
 - **ONR-funded sabbatical**.
 
